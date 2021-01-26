@@ -33,14 +33,14 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Didacticiels vidéo", "Freelancer", "Musicien"],
+        strings: ["Développeur", "Didacticiels vidéo", "Freelancer", "Musicien"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Didacticiels vidéo", "Freelancer", "Musicien"],
+        strings: ["Développeur", "Didacticiels vidéo", "Freelancer", "Musicien"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
